@@ -1,4 +1,6 @@
-Time stamp 21:14
+Time stamp Part 1 Completed
+
+Begin Part 2
 
 # Getting Started with Create React App
 

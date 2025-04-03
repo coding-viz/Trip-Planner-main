@@ -14,10 +14,10 @@ const tours = [
     distance: 300,
     price: 99,
     maxGroupSize: 10,
-    desc: "this is the description",
+    desc: "Explore the iconic Westminister Bridge in London, a historic landmark offering stunning views of the Thames River and the city skyline.",
     reviews: [
       {
-        name: "jhon doe",
+        name: "John Doe",
         rating: 4.6,
       },
     ],
@@ -30,12 +30,12 @@ const tours = [
     title: "Bali, Indonesia",
     city: "Indonesia",
     distance: 400,
-    price: 99,
+    price: 120,
     maxGroupSize: 8,
-    desc: "this is the description",
+    desc: "Experience the serene beauty of Bali, Indonesia, with its lush landscapes, vibrant culture, and pristine beaches.",
     reviews: [
       {
-        name: "jhon doe",
+        name: "John Doe",
         rating: 4.6,
       },
     ],
@@ -48,12 +48,12 @@ const tours = [
     title: "Snowy Mountains, Thailand",
     city: "Thailand",
     distance: 500,
-    price: 99,
+    price: 150,
     maxGroupSize: 8,
-    desc: "this is the description",
+    desc: "Discover the majestic Snowy Mountains in Thailand, a perfect destination for adventure and breathtaking views.",
     reviews: [
       {
-        name: "jhon doe",
+        name: "John Doe",
         rating: 4.6,
       },
     ],
@@ -66,12 +66,12 @@ const tours = [
     title: "Beautiful Sunrise, Thailand",
     city: "Thailand",
     distance: 500,
-    price: 99,
+    price: 110,
     maxGroupSize: 8,
-    desc: "this is the description",
+    desc: "Witness the stunning sunrise in Thailand, a magical experience that will leave you in awe of nature's beauty.",
     reviews: [
       {
-        name: "jhon doe",
+        name: "John Doe",
         rating: 4.6,
       },
     ],
@@ -84,12 +84,12 @@ const tours = [
     title: "Nusa Pendia Bali, Indonesia",
     city: "Indonesia",
     distance: 500,
-    price: 99,
+    price: 130,
     maxGroupSize: 8,
-    desc: "this is the description",
+    desc: "Explore Nusa Pendia in Bali, Indonesia, a hidden gem known for its crystal-clear waters and dramatic cliffs.",
     reviews: [
       {
-        name: "jhon doe",
+        name: "John Doe",
         rating: 4.6,
       },
     ],
@@ -102,12 +102,12 @@ const tours = [
     title: "Cherry Blossoms Spring",
     city: "Japan",
     distance: 500,
-    price: 99,
+    price: 140,
     maxGroupSize: 8,
-    desc: "this is the description",
+    desc: "Experience the enchanting Cherry Blossoms Spring in Japan, a seasonal spectacle of pink and white blooms.",
     reviews: [
       {
-        name: "jhon doe",
+        name: "John Doe",
         rating: 4.6,
       },
     ],
@@ -120,14 +120,11 @@ const tours = [
     title: "Holmen Lofoten",
     city: "France",
     distance: 500,
-    price: 99,
+    price: 160,
     maxGroupSize: 8,
-    desc: "this is the description",
+    desc: "Visit Holmen Lofoten in France, a picturesque destination with stunning landscapes and rich cultural heritage.",
     reviews: [
-      {
-        name: "jhon doe",
-        rating: 4.6,
-      },
+    
     ],
     avgRating: 4.5,
     photo: tourImg07,
@@ -138,14 +135,11 @@ const tours = [
     title: "Snowy Mountains, Thailand",
     city: "Thailand",
     distance: 500,
-    price: 99,
+    price: 150,
     maxGroupSize: 8,
-    desc: "this is the description",
+    desc: "Discover the majestic Snowy Mountains in Thailand, a perfect destination for adventure and breathtaking views.",
     reviews: [
-      {
-        name: "jhon doe",
-        rating: 4.6,
-      },
+    
     ],
     avgRating: 4.5,
     photo: tourImg03,
